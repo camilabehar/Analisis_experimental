@@ -20,4 +20,4 @@ Aquí encontrarás diversos proyectos y experimentos clasificados en las siguien
 
 
 ---
-📫 **Contacto:** Si te interesa debatir sobre economía, datos o colaborar en algún experimento, no dudes en contactarme a través de [Tu LinkedIn/Email].
+📫 **Contacto:** Si te interesa debatir sobre economía, datos o colaborar en algún experimento, no dudes en contactarme a través de camila.behar.l@gmail.com
