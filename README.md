@@ -18,6 +18,9 @@ Aquí encontrarás diversos proyectos y experimentos clasificados en las siguien
 *   **Análisis y Limpieza:** Python (Pandas, NumPy), R, Excel.
 *   **Visualización:** Matplotlib, Seaborn, Tableau, Power BI.
 
+## 🔎 Proyectos destacados
+*   **[Motor de Pricing Demográfico ante Shocks Inflacionarios](./pricing-inflacion-indec/):** modelo de erosión del salario real con microdatos del INDEC (CGI e IPC) y recomendaciones de estrategia de precios.
+*   **[Cómo condiciona el entorno socioemocional infantil en la reflexión cognitiva adulta](./Ensayo_Experimento.md):** estudio empírico con el Cognitive Reflection Test (CRT) comparando muestras de Argentina y Chile.
 
 ---
 📫 **Contacto:** Si te interesa debatir sobre economía, datos o colaborar en algún experimento, no dudes en contactarme a través de camila.behar.l@gmail.com

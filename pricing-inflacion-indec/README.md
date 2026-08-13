@@ -23,5 +23,18 @@ El análisis se fundamenta en el procesamiento empírico de las siguientes bases
 * **Perforación del Umbral Crítico:** El modelo proyecta que el salario real del target principal perforará el 80% de su capacidad histórica de compra (base 2016).
 * **Ilusión Monetaria y Elasticidad:** Ajustar los precios indexando directamente al IPC general genera una **falacia de composición**. El servicio se encarece en términos reales para el consumidor, incrementando exponencialmente la elasticidad precio de la demanda.
 * **Recomendación:** Implementar una arquitectura de precios defensiva. Se dictamina el **lanzamiento de una segunda marca (o plan *lite*)** para absorber el *down-trading* defensivo del consumidor, retener el volumen de ventas, diluir costos fijos y mitigar la fuga hacia competidores.
+
+![Erosión del poder adquisitivo](./assets/erosion_poder_adquisitivo.png)
+*Elaboración propia con datos del INDEC (CGI e IPC).*
+
+## 📖 Documento completo
+El marco teórico, la metodología y las recomendaciones ejecutivas en detalle están desarrollados en [Dinámica de la Erosión del Salario Real y su Impacto en la Demanda](./Dinamica_Erosion_Salario_Real_Pricing.md).
+
+## 🚀 Cómo correrlo
+```bash
+pip install -r requirements.txt
+jupyter notebook Pricing_surtido_inflacion.ipynb
+```
+
 ---
 *Análisis desarrollado para portfolio de Data Science Aplicada a la Economía Empresarial.*
